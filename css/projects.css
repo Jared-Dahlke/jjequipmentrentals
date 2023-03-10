@@ -103,6 +103,13 @@
 <--- -------------------------- -*/
 /* Mobile */
 @media only screen and (min-width: 0em) {
+	.title {
+		font-size: 3.5em;
+	}
+	.subtitle {
+		font-size: 3em;
+	}
+
 	#portfolio .container .row:nth-of-type(1) picture:nth-of-type(1) {
 		width: 60em;
 		height: 60em;
